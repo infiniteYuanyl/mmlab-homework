@@ -21,3 +21,7 @@ wandb可视化训练精度如下
 
 训练模型文件链接：
 
+链接：https://pan.baidu.com/s/1RV7Ii5MpUUYnWHee4je3TA 
+提取码：fxgs 
+
+
