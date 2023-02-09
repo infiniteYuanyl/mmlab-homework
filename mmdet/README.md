@@ -127,9 +127,22 @@ if __name__ == '__main__':
 
 ### 2.进阶作业
 
+使用`fast_rcnn`模型完成VOC2012的任务。模型配置文件放在advance目录下，日志文件在日期目录下。
 
+验证指标如下，效果比较不错
+
+<img src="https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210005804237.png" alt="image-20230210005804237" style="zoom: 80%;" />
+
+
+
+将demo视频转换后，制作gif效果如下
+
+![pascal_voc2012](https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgpascal_voc2012.gif)
 
 训练模型文件链接：
+
+链接：https://pan.baidu.com/s/1T3D1eoknP7D_nXA9A1LMKQ 
+提取码：x3c8 
 
 
 
