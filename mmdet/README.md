@@ -131,7 +131,9 @@ if __name__ == '__main__':
 
 验证指标如下，效果比较不错
 
-<img src="https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210005804237.png" alt="image-20230210005804237"  />
+![image-20230210020000711](https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210020000711.png)
+
+![image-20230210020016241](C:/Users/yuan/AppData/Roaming/Typora/typora-user-images/image-20230210020016241.png)
 
 
 
