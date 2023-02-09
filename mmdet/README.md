@@ -133,7 +133,7 @@ if __name__ == '__main__':
 
 ![image-20230210020000711](https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210020000711.png)
 
-![image-20230210020016241](C:/Users/yuan/AppData/Roaming/Typora/typora-user-images/image-20230210020016241.png)
+![image-20230210020016241](https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210020016241.png)
 
 
 
