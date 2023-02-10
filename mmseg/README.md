@@ -35,7 +35,7 @@
 
 **模型：**
 
-使用`mask2former`模型进行分割，其最大的特点是，对于使用`swin`作为`backbone`的模型来说，batchsize需要设置为2才能够放24g显存的gpu上（一张图片10多个G，属实是大力出奇迹了）。
+使用`mask2former`模型进行分割，其最大的特点是，对于使用`swin`作为`backbone`的模型来说，batchsize需要设置为2才能够放24g显存的gpu上（一张图片10多个G，属实是大力出奇迹了）。由于没设备了，我还是选择`resnet50`作为`backbone`
 
 
 
