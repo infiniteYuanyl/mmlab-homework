@@ -4,7 +4,7 @@
 
 **数据集说明：**
 
-<img src="https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210155453678.png" alt="image-20230210155453678" style="zoom:50%;" />使用Kaggle中People Clothing数据集
+<img src="https://yuan-1314071695.cos.ap-nanjing.myqcloud.com/imgimage-20230210155453678.png" alt="image-20230210155453678" style="zoom:50%;" />使用Kaggle中People Clothing数据集，共59个类别。
 
 数据集共1000张图片，划分为800张训练集和200张验证集。
 
