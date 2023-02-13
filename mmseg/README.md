@@ -92,6 +92,12 @@
 链接：https://pan.baidu.com/s/165CMeclmeU5bcjbv8U4Qpw 
 提取码：8zee 
 
+`160k` iter训练模型文件链接：
+
+链接：https://pan.baidu.com/s/1mfhvwzX37nf7itVsiQZdCg 
+提取码：bi59 
+
+
 ### 2.进阶作业
 
 **数据集说明：**
